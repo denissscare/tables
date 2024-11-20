@@ -109,7 +109,7 @@ def main():
   
   print(metrics)
   
-  data = {'id': '72N6LvBOj',
+  data = {'id': '',
           'data': {'closeTrades':close_trades,'metrics': metrics}
           }
   
